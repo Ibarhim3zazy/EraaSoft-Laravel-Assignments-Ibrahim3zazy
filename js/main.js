@@ -3,10 +3,10 @@ function tasks() {
     const tasks = [
         {
             img:"task_1.0.0.png",
-            desc:"here you can see the result of using bootstrap and how you can call a bootstrap css and js to build your website and create a navbar to your website and building a full page such as a products page or category page", 
+            desc:"in this website for start i made crud with contact page and ran all links overall the website", 
             searchLink:"search_1",
             taskLink:"https://github.com/Ibarhim3zazy/furni_1.0.0.git",
-            date: '2 march 2024'
+            date: '25 may 2024'
         }
     ];
     for (const element of tasks) {
