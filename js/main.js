@@ -7,7 +7,7 @@ function tasks() {
             searchLink:"search_1",
             taskLink:"https://github.com/Ibarhim3zazy/furni_1.0.0.git",
             date: '25 may 2024'
-        }
+        },
         {
             img:"task_1.1.0.png",
             desc:"this a task i made in it a crud for products and categories [req from eng: Zakaria]", 
